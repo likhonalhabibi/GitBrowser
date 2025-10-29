@@ -1,0 +1,36 @@
+# Gradle files
+.gradle/
+build/
+
+# Local configuration
+local.properties
+
+# IDE files
+.idea/
+*.iml
+.DS_Store
+
+# Keystore files
+*.jks
+*.keystore
+
+# Log files
+*.log
+
+# Captures
+.cxx/
+*.hprof
+*.hprof.*
+captures/
+output.json
+
+# Built application files
+*.apk
+*.aar
+*.ap_
+*.aab
+
+# Obfuscation files
+mapping.txt
+seeds.txt
+usage.txt
